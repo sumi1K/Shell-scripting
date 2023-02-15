@@ -1,5 +1,7 @@
 ##### These are some most useful command used in linux which everyone should know.
 
+This is just a list of commands and I didn't explain much about them. Use man command or help to get more info and use cases of them.
+
 * `ssh` : Remote login to an other machine.
 * `--help` : to get help for any command. `command --help/ -h` this will print an quick help for that command.
 * `ls` : to list content of a folder. you can use flag with this command to get much robust result.  
